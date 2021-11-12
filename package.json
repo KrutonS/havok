@@ -19,7 +19,6 @@
   "dependencies": {
     "@commitlint/cli": "^14.1.0",
     "@commitlint/config-conventional": "^14.1.0",
-    "@danbruegge/gatsby-plugin-stylelint": "^4.1.0",
     "autoprefixer": "^10.3.4",
     "classnames": "^2.3.1",
     "dotenv": "^10.0.0",

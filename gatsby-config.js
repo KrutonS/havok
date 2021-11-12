@@ -19,11 +19,11 @@ module.exports = {
 		`gatsby-plugin-sharp`,
 		`gatsby-transformer-sharp`,
 		`gatsby-plugin-transition-link`,
-		{
-			resolve: '@danbruegge/gatsby-plugin-stylelint',
-			options: {
-				files: ['**/*.{css,sass,scss}'],
-			},
-		},
+		// {
+		// 	resolve: '@danbruegge/gatsby-plugin-stylelint',
+		// 	options: {
+		// 		files: ['**/*.{css,sass,scss}'],
+		// 	},
+		// },
 	],
 };
